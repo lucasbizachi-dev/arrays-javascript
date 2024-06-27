@@ -8,3 +8,5 @@ Clone o repositório:
 Navegue até o diretório do projeto:
 <p>cd arrays-javascript</p>
 
+## Licença
+Este projeto está licenciado sob a MIT License.
