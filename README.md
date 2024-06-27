@@ -4,9 +4,12 @@ Este repositório contém código relacionado a arrays em JavaScript. Ele é pro
 
 ## Configuração
 Clone o repositório:
-<p>git clone https://github.com/lucasbizachi-dev/arrays-javascript.git</p>
+```bash
+git clone https://github.com/lucasbizachi-dev/arrays-javascript.git
+```
 Navegue até o diretório do projeto:
-<p>cd arrays-javascript</p>
-
+```bash
+cd arrays-javascript
+```
 ## Licença
 Este projeto está licenciado sob a MIT License.
